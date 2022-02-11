@@ -44,9 +44,10 @@ const styles = css`
         width: 0;
       }
       .error {
-        font-size: 340px;
-        color: red;
-        height: 32px;
+        font-size: 34px;
+        color: #b57acc;
+        height: 90px;
+        padding-top: 2%;
       }
     }
     img {
